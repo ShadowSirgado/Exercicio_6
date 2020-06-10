@@ -108,7 +108,7 @@ clip-path: polygon(0 0, 100% 0, 100% 85%, 0 95%);
 }
 .item-1 {
 background: linear-gradient(to right, rgba(43, 43, 43, 0.9), 
-rgba(173, 172, 172, 0)), url(../img/img1.jpg.) center/cover fixed no-repeat;
+rgba(173, 172, 172, 0)), url(../img/img1.jpg) center/cover fixed no-repeat;
 }
 .item-2 {
 background: linear-gradient(to right, rgba(43, 43, 43, 0.9), 
