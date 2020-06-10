@@ -140,9 +140,9 @@ color: #5a5a5a;
 }
 .title-underline {
 height: 5px;
-width: 500px;
+max-width: 500px;
 background: #b30404;
-margin: auto;
+margin: -28px auto 0 auto;
 }
 .title a {
 color: black;
